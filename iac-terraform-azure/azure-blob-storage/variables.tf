@@ -1,6 +1,6 @@
 variable "nazwa_grupy" {
   type    = string
-  default = "zasoby_grupy1"
+  default = "zasoby_grupy12"
 }
 
 variable "lokacja_grupy" {
